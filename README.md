@@ -2,6 +2,8 @@
 # Using Whisper Large V3: Speech-to-Text & Multilingual Translation
 
 This project is a **Streamlit-based web application** that leverages the Hugging Face **Whisper Large V3** model to transcribe and translate audio files into text. Additionally, it supports language detection.
+![whisper](https://github.com/user-attachments/assets/9a906b4d-cf30-4320-87e4-37d81a347d70)
+![whisper2](https://github.com/user-attachments/assets/7037540d-afe1-4db7-8a32-ac590c94f035)
 
 ## Features
 - 🎤 **Transcription**: Upload an audio file to transcribe speech into text.
